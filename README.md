@@ -33,6 +33,7 @@ TEAMMATES team wishes to thank the following invaluable contributions:
 * **Jet Brains**, for the [Intellij IDEA](https://www.jetbrains.com/idea/) licences
 * <img src="src/web/assets/images/yklogo.png" width="100"> [**YourKit LLC**](https://www.yourkit.com), for providing us with free licenses for the [YourKit Java Profiler](https://www.yourkit.com/java/profiler) (an industry leading profiler tool for Java applications).
 * <img src="src/web/assets/images/saucelabs.png" width="100"> [**SauceLabs**](https://saucelabs.com), for providing us with a free [Open Sauce account](https://saucelabs.com/open-source) for cross-browser testing.
+* **Nhlanhla Mlambo**, who is a final year student at North-West University and made his first contribution to open source on this project.
 
 ## Contacting us
 
